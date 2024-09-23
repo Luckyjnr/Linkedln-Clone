@@ -9,8 +9,8 @@ export const profileData = {
         height={80}
         style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
     />,
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "Noah Oshioke Lucky",
+    bio: "Software Engineer | Backend Web Developer | Web3 Mentor at web3bridge",
     profileViewers: 65,
     postImpressions: 43,
 }
